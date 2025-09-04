@@ -7,15 +7,13 @@
   <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
   <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
   <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-  <img src="public/1.jpg" alt="Logo Perusahaan" width="300">
-  <img src="public/2.jpg" alt="Logo Perusahaan" width="300">
-
 </p>
 
 ---
 
 ## About Laravel
-
+<img src="public/1.jpg" alt="Logo Perusahaan" width="1000">
+<img src="public/2.jpg" alt="Logo Perusahaan" width="1000">
 Laravel is a web application framework with expressive, elegant syntax. ...
 
 ## Table of Contents
